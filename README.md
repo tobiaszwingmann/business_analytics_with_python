@@ -1,1 +1,1 @@
-# business_analytics_with_python
+Additional resources and materials to the O'Reilly Bootcamp "Business Analytics with Python"
