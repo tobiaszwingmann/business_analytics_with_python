@@ -2,4 +2,4 @@
 
 # Install Anaconda
 
-Visit (Anaconda Download Page)[https://www.anaconda.com/products/distribution]
+Visit [Anaconda Download Page](https://www.anaconda.com/products/distribution)
