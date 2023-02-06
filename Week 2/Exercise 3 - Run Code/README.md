@@ -18,7 +18,14 @@ git clone https://github.com/tobiaszwingmann/business_analytics_with_python.git
 
 ## Step 3: Run shell script
 
-Run the following shell script to install `pip` (Python Package manager):
+Run the shell script `pip.sh` to install `pip` (Python Package manager).
+
+To navigate to the subfolder in the repository, type:
+
+1. `cd business_analytics_with_python` (Tip: Use `TAB` to autocomplete the directory!)
+2. `cd Week\ 2`
+3. `cd Exercise\ 3\ -\ Run\ Code/`
+4. Run the following code:
 
 ```
 sh pip.sh
