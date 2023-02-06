@@ -21,6 +21,6 @@ Visit [Anaconda Download Page](https://www.anaconda.com/products/distribution)
 * Launch Jupyter Notebook from Anaconda
 * Create a new directory
 * Create a new notebook file
-** Create a new markdown cell
-** Create a new code cell
-** Run notebook & print "Hello World!"
+  * Create a new markdown cell
+  * Create a new code cell
+  * Run notebook & print "Hello World!"
