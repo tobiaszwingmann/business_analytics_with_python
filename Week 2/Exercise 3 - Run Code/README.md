@@ -4,7 +4,7 @@
 
 1. Log in to oreilly.com
 2. Start Learning --> Interactive Learning
-3. Sandboxe --> Python Sandbox
+3. Sandbox --> Python Sandbox
 
 (Direct Link: https://learning.oreilly.com/scenarios/python-sandbox/9781492062844/ )
 
