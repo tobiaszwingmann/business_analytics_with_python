@@ -30,6 +30,6 @@ Explore the sandbox with the IDE VS Code.
 
 Try to:
 
-1. Create and run a new script file from the IDE
+1. Create and run a new script file
 2. Open the notebook `Retail_Data_Analysis.ipynb` from the repository
 3. Run the script `retail_data_analysis.py` from the command line
