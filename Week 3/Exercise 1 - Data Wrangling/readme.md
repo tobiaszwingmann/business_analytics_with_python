@@ -22,8 +22,8 @@ How to run the notebook
 * Clone this repository
 `git clone https://github.com/tobiaszwingmann/business_analytics_with_python.git`
 * Execute the following commands into the terminal to install the Python package manager pip:
-`sudo apt update`
-`sudo apt install python3-venv python3-pip`
-* Type `Y` when prompted
+	* `sudo apt update`
+	* `sudo apt install python3-venv python3-pip`
+	* Type `Y` when prompted
 * Open the Notebook from the file browser
 * Click `Select Kernel` -> `Install suggested extension Python + Jupyter`
