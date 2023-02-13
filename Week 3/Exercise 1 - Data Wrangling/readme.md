@@ -26,4 +26,4 @@ How to run the notebook
 `sudo apt install python3-venv python3-pip`
 * Type `Y` when prompted
 * Open the Notebook from the file browser
-* Click `Select Kernel` -> `Install suggested extension`
+* Click `Select Kernel` -> `Install suggested extension Python + Jupyter`
