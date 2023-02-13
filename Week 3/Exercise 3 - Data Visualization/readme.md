@@ -30,3 +30,8 @@
 * Repeat the same for Notebook "Matplotlib Tutorial.ipynb"
 * Google Colab link: https://colab.research.google.com/drive/1_2bZ9OHLIfGCg1pg0k9QUJnWLRHgUlIY?usp=sharing
 
+## Step 3: Seaborn Tutorial
+* Repeat the same for Notebook "Seaborn Tutorial.ipynb"
+* Google Colab link: https://colab.research.google.com/drive/1yQv-XRlU2BCeaSP1-J5ez1ddMu3PYBnd?usp=sharing
+
+
