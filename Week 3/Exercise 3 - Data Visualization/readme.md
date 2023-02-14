@@ -25,6 +25,7 @@
 	* Type `Y` when prompted
 * Open the Notebook from the file browser
 * Click `Select Kernel` -> `Install suggested extension Python + Jupyter`
+* NOTE: Running the `sweetviz`package will not work in the sandbox
 
 ## Step 2: Matplotlib Tutorial
 * Repeat the same for Notebook "Matplotlib Tutorial.ipynb"
