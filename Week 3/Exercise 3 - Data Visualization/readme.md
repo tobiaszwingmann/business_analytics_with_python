@@ -37,6 +37,6 @@
 ## Further Resources
 * [Matplotlib Cheat Sheet](https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python)
 * [Seaborn Cheat Sheet](https://www.datacamp.com/cheat-sheet/python-seaborn-cheat-sheet)
-* [Data Visualization Cheat Sheet](https://policyviz.com/ 2018/08/07/dataviz- cheatsheet/)
+* [Data Visualization Cheat Sheet](https://policyviz.com/2018/08/07/dataviz-cheatsheet/)
 * Book: [Storytelling with Data](https://learning.oreilly.com/library/view/storytelling-with-data/9781119002253/)
 * Book: [Fundamentals of Data Visualization](https://learning.oreilly.com/library/view/fundamentals-of-data/9781492031079/)
