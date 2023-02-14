@@ -10,7 +10,6 @@ How to run the notebook
 * Open this link: https://colab.research.google.com/drive/1a_-okwQUcRQwXTJLPb14USrEHZrjqAID?usp=sharing
 * Make a copy
 
-
 ### Option 2: On Your Computer
 * Clone this repository, e.g. with Github Desktop
 * Launch Jupyter Notebook, e.g. from Anaconda Navigator 
@@ -27,3 +26,7 @@ How to run the notebook
 	* Type `Y` when prompted
 * Open the Notebook from the file browser
 * Click `Select Kernel` -> `Install suggested extension Python + Jupyter`
+
+## Further Resources
+* [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+* Book: [Effective Pandas](https://www.amazon.com/Effective-Pandas-Patterns-Manipulation-Treading/dp/B09MYXXSFM/)

@@ -2,14 +2,13 @@
 
 ## Tutorial
 
-Follow the steps in the Jupyter Notebook.
+* Follow the steps in the Jupyter Notebook `Descriptive_Statistics_With_Python.ipynb`.
 
-How to run the notebook
+**How to run the notebook:**
 
 ### Option 1: Google Colab
 * Open this link: https://colab.research.google.com/drive/1lKvv918DuDiwIHoixNkwpYZXQiE5d-IW?usp=sharing
 * Make a copy
-
 
 ### Option 2: On Your Computer
 * Clone this repository, e.g. with Github Desktop
@@ -27,3 +26,9 @@ How to run the notebook
 	* Type `Y` when prompted
 * Open the Notebook from the file browser
 * Click `Select Kernel` -> `Install suggested extension Python + Jupyter`
+
+## Further Resources
+* [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+* [Numpy Cheat Sheet](https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python)
+* Book: [Effective Pandas](https://www.amazon.com/Effective-Pandas-Patterns-Manipulation-Treading/dp/B09MYXXSFM/)
+* Book: [Practical Statistics for Data Scientists](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/)

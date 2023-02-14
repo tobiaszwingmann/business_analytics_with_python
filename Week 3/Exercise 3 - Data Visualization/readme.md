@@ -1,7 +1,7 @@
 # Exercise 3: Data Visualization With Python
 
 ## Step 1: Exploratory Plots
-* Open the Notebook "Exploratory Plots.ipynb" using one of the following options:
+* Open the Notebook "Exploratory_Plots_With_Pandas.ipynb" using one of the following options:
 
 
 ### Option 1: Google Colab
@@ -34,4 +34,8 @@
 * Repeat the same for Notebook "Seaborn Tutorial.ipynb"
 * Google Colab link: https://colab.research.google.com/drive/1yQv-XRlU2BCeaSP1-J5ez1ddMu3PYBnd?usp=sharing
 
-
+## Further Resources
+* [Matplotlib Cheat Sheet](https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python)
+* [Seaborn Chat Sheet](https://www.datacamp.com/cheat-sheet/python-seaborn-cheat-sheet)
+* Book: [Storytelling with Data](https://learning.oreilly.com/library/view/storytelling-with-data/9781119002253/)
+* Book: [Fundamentals of Data Visualization](https://learning.oreilly.com/library/view/fundamentals-of-data/9781492031079/)
