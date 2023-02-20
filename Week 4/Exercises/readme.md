@@ -8,4 +8,4 @@
 * Step 2: Complete the interactive learning lab [Develop and Interpret a K-Means Clustering](https://learning.oreilly.com/scenarios/-/9781098121754/)
 
 ## Exercise 3: Rule Mining
-* Complete the interactive learning lab [https://learning.oreilly.com/scenarios/-/9781098121785/](https://learning.oreilly.com/scenarios/-/9781098121785/)
+* Complete the interactive learning lab [Perform a Market Basket Analysis](https://learning.oreilly.com/scenarios/-/9781098121785/)
