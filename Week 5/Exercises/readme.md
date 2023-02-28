@@ -33,3 +33,18 @@ Complete the following interactive learning labs:
 ## Exercise 4: Time Series with ARIMA Models
 Complete the following interactive learning labs
 * [Forecast Time Series with ARIMA Models](https://learning.oreilly.com/scenarios/-/9781098121686/)
+
+# Further Resources:
+
+## Statistics:
+* Book: [Essential Math for Data Science](https://learning.oreilly.com/library/view/essential-math-for/9781098102920/)
+* Videos: [Regression - Josh Starmer on StatQuest](https://www.youtube.com/watch?v=PaFPbb66DxQ&list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU)
+
+## Machine Learning:
+* Book: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+* Book: [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf)
+* Course: [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
+
+## Time Series:
+* Book: [Advanced Forecasting with Python](https://learning.oreilly.com/library/view/advanced-forecasting-with/9781484271506)
+* Blog: [How to Create an ARIMA Model for Time Series Forecasting in Python](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/)
