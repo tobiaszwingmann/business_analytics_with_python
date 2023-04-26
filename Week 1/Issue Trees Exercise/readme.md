@@ -1,7 +1,7 @@
 # Exercise 1: Issue Trees
 
 ## Step 1:
-* Download and open the file `Issue Tree Template.pptx`
+* Download and open the file `Issue Tree Template.pptx` - [Google Slides Version](https://docs.google.com/presentation/d/1XihHUmb8L9qPzss8LTzdK5gew7z9zEvlYxs_3wM7hNs/edit)
 
 ## Step 2:
 * Create your own issue tree based on one of the examples provided.
