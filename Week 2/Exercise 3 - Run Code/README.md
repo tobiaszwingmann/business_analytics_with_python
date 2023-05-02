@@ -16,7 +16,7 @@ Clone the course repository into the sandbox using this command:
 git clone https://github.com/tobiaszwingmann/business_analytics_with_python.git
 ```
 
-## Step 3: Run shell script
+## Step 3: Install packages
 
 Run the shell script `pip.sh` to install `pip` (Python Package manager).
 
