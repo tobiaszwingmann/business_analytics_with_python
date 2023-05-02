@@ -18,17 +18,11 @@ git clone https://github.com/tobiaszwingmann/business_analytics_with_python.git
 
 ## Step 3: Install packages
 
-Run the shell script `pip.sh` to install `pip` (Python Package manager).
-
-To navigate to the subfolder in the repository, type:
-
-1. `cd business_analytics_with_python` (Tip: Use `TAB` to autocomplete the directory!)
-2. `cd Week\ 2`
-3. `cd Exercise\ 3\ -\ Run\ Code/`
-4. Run the following code:
+Type the following commands in the terminal to install the Python manager pip:
 
 ```
-sh pip.sh
+sudo apt update
+sudo apt install python3-venv python3-pip
 ```
 
 ## Step 4: Work with VSCode!
