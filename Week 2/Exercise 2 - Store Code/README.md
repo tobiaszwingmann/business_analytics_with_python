@@ -8,6 +8,6 @@ Visit [Github Desktop Download Page](https://desktop.github.com/)
 
 Repository URL: https://github.com/tobiaszwingmann/business_analytics_with_python.git
 
-## Step 3: Copy the folder structure to a new folder
-Path: Week 2 / Exercise 2 / Folder Structure Template
+## Step 3: Copy the folder structure to your personal repo
+Path: `Week 2 / Exercise 2 / Folder Structure Template`
  
