@@ -1,12 +1,16 @@
 # Exercises Week 5: Predictive Analytics With Python
 
-## Exercise 1: Regression
+## Exercise 1: Hypothesis testing
 Complete the following interactive learning labs:
 
 * [The Normal Distribution](https://learning.oreilly.com/scenarios/-/9781098111144)
 * [Central Limit Theorem](https://learning.oreilly.com/scenarios/-/9781098111168)
 * [P-values One-Tailed Test](https://learning.oreilly.com/scenarios/-/9781098111182)
 * [P-values Two-Tailed Test](https://learning.oreilly.com/scenarios/-/9781098117030)
+
+
+## Exercise 2: Regression
+Complete the following interactive learning labs:
 * [Linear Regression: Using Scikit-Learn](https://learning.oreilly.com/scenarios/-/9781098127732/)
 * [Linear Regression: Calculating the Squared Error](https://learning.oreilly.com/scenarios/-/9781098127749/)
 * [Linear Regression: Coefficient of Determination](https://learning.oreilly.com/scenarios/linear-regression-coefficient/9781098127893/)
