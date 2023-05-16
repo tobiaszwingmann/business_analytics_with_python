@@ -2,7 +2,6 @@
 
 ## Exercise 1: Hypothesis testing
 Complete the following interactive learning labs:
-
 * [The Normal Distribution](https://learning.oreilly.com/scenarios/-/9781098111144)
 * [Central Limit Theorem](https://learning.oreilly.com/scenarios/-/9781098111168)
 * [P-values One-Tailed Test](https://learning.oreilly.com/scenarios/-/9781098111182)
@@ -19,14 +18,15 @@ Complete the following interactive learning labs:
 
 ## Exercise 3: Machine Learning Basics
 Complete the following interactive learning labs:
-
 * [Prepare Data for Train-Test Splits](https://learning.oreilly.com/scenarios/-/9781098121662/)
 * [Predict Numeric Values with Multiple Linear Regression](https://learning.oreilly.com/scenarios/-/9781098121679/)
 * Optional: [Predict Categorical Values with Tree-Based Models](https://learning.oreilly.com/scenarios/-/9781098121693/)
+
+## Exercise 4: Evaluating Machine Learning Models
+Complete the following interactive learning labs:
 * [Calculate and Interpret Predictive Model Performance](https://learning.oreilly.com/scenarios/-/9781098121709/)
 
-
-## Exercise 4: Time Series with ARIMA Models
+## Exercise 5: Time Series with ARIMA Models
 Complete the following interactive learning labs
 * [Forecast Time Series with ARIMA Models](https://learning.oreilly.com/scenarios/-/9781098121686/)
 
