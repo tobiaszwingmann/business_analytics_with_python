@@ -24,6 +24,7 @@ Complete the following interactive learning labs:
 
 ## Exercise 4: Evaluating Machine Learning Models
 Complete the following interactive learning labs:
+* [Predict Categorical Values with Tree-Based Models](https://learning.oreilly.com/scenarios/-/9781098121693/) (continue from step 6)
 * [Calculate and Interpret Predictive Model Performance](https://learning.oreilly.com/scenarios/-/9781098121709/)
 
 ## Exercise 5: Time Series with ARIMA Models
