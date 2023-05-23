@@ -19,8 +19,8 @@ Complete the following interactive learning labs:
 ## Exercise 3: Machine Learning Basics
 Complete the following interactive learning labs:
 * [Prepare Data for Train-Test Splits](https://learning.oreilly.com/scenarios/-/9781098121662/)
-* [Predict Numeric Values with Multiple Linear Regression](https://learning.oreilly.com/scenarios/-/9781098121679/) (until step 5)
-* Optional: [Predict Categorical Values with Tree-Based Models](https://learning.oreilly.com/scenarios/-/9781098121693/)
+* [Predict Categorical Values with Tree-Based Models](https://learning.oreilly.com/scenarios/-/9781098121693/) (until step 5)
+* Optional: [Predict Numeric Values with Multiple Linear Regression](https://learning.oreilly.com/scenarios/-/9781098121679/) (until step 5)
 
 ## Exercise 4: Evaluating Machine Learning Models
 Complete the following interactive learning labs:
